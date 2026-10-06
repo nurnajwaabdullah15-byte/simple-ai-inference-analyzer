@@ -1,0 +1,8 @@
+image_id,object_class,confidence,inference_time_ms
+1,person,0.92,45
+2,car,0.85,48
+3,person,0.78,43
+5,car,0.88,47
+6,cat,0.73,41
+7,person,0.95,44
+9,car,0.81,46
